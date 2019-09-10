@@ -6,3 +6,6 @@ I will code java
 Having handson Hibernate
 
 Will develop application in Spring
+
+Why Spring , y not SpringBoot
+Addition of that we ll use REST api
